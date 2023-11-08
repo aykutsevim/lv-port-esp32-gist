@@ -8,6 +8,14 @@
  * software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
  * CONDITIONS OF ANY KIND, either express or implied.
  */
+
+// Main project repo
+// https://github.com/lvgl/lv_port_esp32/
+
+// https://lvgl.io/get-started
+
+// Turkish fonts
+// https://forum.lvgl.io/t/adding-turkish-language-characters/2517
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
